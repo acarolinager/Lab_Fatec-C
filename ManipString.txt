@@ -1,0 +1,3 @@
+http://linguagemc.com.br/string-em-c-vetor-de-caracteres/
+https://www.w3schools.com/c/c_syntax.php
+https://www.devmedia.com.br/manipulacao-de-strings-em-csharp/21493
